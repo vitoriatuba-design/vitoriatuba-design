@@ -2,26 +2,25 @@
 
 <!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Vitória%20do%20Amaral%20💙✨&fontSize=35&fontColor=ffffff&animation=twinkling&desc=Developer%20in%20Progress%20•%20ADS%20Student&descSize=15&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Vitória%20do%20Amaral%20💙✨&fontSize=35&fontColor=ffffff&animation=twinkling&desc=Desenvolvedora%20em%20Formação%20•%20Estudante%20de%20ADS&descSize=15&descAlignY=70" />
 </p>
 
 <p align="center">
-💻 Developer in Progress • 🎓 ADS Student • ✨ Turning ideas into code
+💻 Desenvolvedora em Formação • 🎓 Estudante de ADS • ✨ Transformando ideias em código
 </p>
 
 ---
 
-## 🧠 About me
+## 🧠 Sobre mim
 
-💙 Tech lover & creative mind  
-🐱 Cat energy always present  
-📚 Learning something new every day  
-🚀 Focused on becoming Full Stack Developer  
-🎯 Building real solutions with code  
+💙 Apaixonada por tecnologia e criatividade  
+📚 Aprendendo algo novo todos os dias  
+🚀 Focada em me tornar Desenvolvedora Full Stack  
+🎯 Construindo soluções reais através da programação  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <p align="center">
 
@@ -34,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitoriatuba-design&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,24 +49,24 @@
 
 ---
 
-## 🌸 Goals
+## 🌸 Objetivos
 
-- 🚧 Build real-world projects  
-- 🎨 Improve UI/UX & frontend design  
-- 💼 Become Full Stack Developer  
-- 🌍 Work with impactful tech solutions  
+- 🚧 Desenvolver projetos do mundo real  
+- 🎨 Aprimorar habilidades em UI/UX e design frontend  
+- 💼 Tornar-me Desenvolvedora Full Stack  
+- 🌍 Trabalhar com soluções tecnológicas que gerem impacto positivo  
 
 ---
 
-## 📌 Projects
+## 📌 Projetos
 
 <p align="center">
-🚀 Coming soon... stay tuned 👀✨
+🚀 Em breve... novidades chegando 👀✨
 </p>
 
 ---
 
-## 💌 Contact
+## 💌 Contato
 
 <p align="center">
 
@@ -83,10 +82,10 @@
 
 ---
 
-## ✨ Quote
+## ✨ Frase
 
 <p align="center">
-  <i>"Code is art, and I'm still learning how to paint it." 💙</i>
+  <i>"Código é arte, e eu ainda estou aprendendo a pintá-la." 💙</i>
 </p>
 
 ---
